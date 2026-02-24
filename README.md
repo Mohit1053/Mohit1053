@@ -23,7 +23,7 @@
 
 **market-intelligence-platform** *(private)*
 
-Enterprise-grade Indian Market Intelligence Platform — Agentic RAG, 14-metric fundamental scoring, 131K-record backtesting, and smart portfolio rebalancing
+Enterprise-grade Indian Market Intelligence Platform &mdash; Agentic RAG, 14-metric fundamental scoring, 131K-record backtesting, and smart portfolio rebalancing
 
 </td>
 
@@ -31,7 +31,7 @@ Enterprise-grade Indian Market Intelligence Platform — Agentic RAG, 14-metric 
 
 **stock-prediction-engine** *(private)*
 
-ML-powered stock prediction with 350+ technical indicators and LSTM models for Indian equities — BUY/SELL signal generation
+ML-powered stock prediction with 350+ technical indicators and LSTM models for Indian equities &mdash; BUY/SELL signal generation
 
 </td>
 
@@ -46,7 +46,7 @@ ML-powered stock prediction with 350+ technical indicators and LSTM models for I
 
 **ai-caller** *(private)*
 
-Enterprise Voice AI platform — 15 microservices, 3 deployment approaches (Cloud/Local/PersonaPlex), <700ms voice-to-voice latency, 36K+ call transcripts
+Enterprise Voice AI platform &mdash; 15 microservices, 3 deployment approaches (Cloud/Local/PersonaPlex), <700ms voice-to-voice latency, 36K+ call transcripts
 
 
 ---
@@ -173,7 +173,7 @@ Multi-prompt AI text humanizer to reduce detection scores on GPTZero and ZeroGPT
 
 **[web-automation-framework](https://github.com/Mohit1053/web-automation-framework)**
 
-Production-grade web automation framework — stealth browser control, fingerprint evasion, human behavior simulation, IP rotation, and multi-provider LLM content generation
+Production-grade web automation framework &mdash; stealth browser control, fingerprint evasion, human behavior simulation, IP rotation, and multi-provider LLM content generation
 
 </td>
 
@@ -181,7 +181,7 @@ Production-grade web automation framework — stealth browser control, fingerpri
 
 **labs-financial-data-pipelines** *(private)*
 
-Automated financial data collection — broker emails, recommendations scraping, factsheet downloads, and portfolio analysis
+Automated financial data collection &mdash; broker emails, recommendations scraping, factsheet downloads, and portfolio analysis
 
 </td>
 
@@ -200,7 +200,7 @@ Automated financial data collection — broker emails, recommendations scraping,
 
 **[quant-lab](https://github.com/Mohit1053/quant-lab)**
 
-Quantitative research lab — Transformer/TFT models, RL agents (PPO, SAC), regime detection, and backtesting for Indian markets
+Quantitative research lab &mdash; Transformer/TFT models, RL agents (PPO, SAC), regime detection, and backtesting for Indian markets
 
 </td>
 
@@ -208,7 +208,7 @@ Quantitative research lab — Transformer/TFT models, RL agents (PPO, SAC), regi
 
 **[indian-stock-backtesting](https://github.com/Mohit1053/indian-stock-backtesting)**
 
-Dual-engine backtesting platform for Indian equities — fundamental scoring (Nifty 50, 14 metrics) and technical indicator analysis (2600+ stocks, 105+ indicators) with Flask APIs and interactive dashboards
+Dual-engine backtesting platform for Indian equities &mdash; fundamental scoring (Nifty 50, 14 metrics) and technical indicator analysis (2600+ stocks, 105+ indicators) with Flask APIs and interactive dashboards
 
 </td>
 
@@ -216,7 +216,7 @@ Dual-engine backtesting platform for Indian equities — fundamental scoring (Ni
 
 **[Fundamental_Indicators](https://github.com/Mohit1053/Fundamental_Indicators)**
 
-Professional toolkit for fundamental analysis of Indian stocks — Also part of market-intelligence-platform monorepo
+Professional toolkit for fundamental analysis of Indian stocks &mdash; Also part of market-intelligence-platform monorepo
 
 </td>
 
@@ -233,7 +233,7 @@ Professional toolkit for fundamental analysis of Indian stocks — Also part of 
 | Project | What it does |
 |---------|--------------|
 | [Article-Summary-Insights](https://github.com/Mohit1053/Article-Summary-Insights) | AI-powered financial article analysis system with multi-agent architecture for insights extraction and investment scoring |
-| [AP-PROJECT](https://github.com/Mohit1053/AP-PROJECT) | Tank Stars-inspired 2D artillery game built with Java and libGDX — Advanced Programming coursework at IIIT-Delhi (2022) |
+| [AP-PROJECT](https://github.com/Mohit1053/AP-PROJECT) | Tank Stars-inspired 2D artillery game built with Java and libGDX &mdash; Advanced Programming coursework at IIIT-Delhi (2022) |
 | [propensity](https://github.com/Mohit1053/propensity) | Propensity scoring model for user conversion prediction |
 | [rocket-flight-controller](https://github.com/Mohit1053/rocket-flight-controller) | Rocket flight simulation and PID controller implementation |
 

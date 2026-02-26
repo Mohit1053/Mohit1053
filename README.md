@@ -214,7 +214,7 @@ Dual-engine backtesting platform for Indian equities &mdash; fundamental scoring
 
 <td width="33%">
 
-**[Fundamental_Indicators](https://github.com/Mohit1053/Fundamental_Indicators)**
+**Fundamental_Indicators** *(private)*
 
 Professional toolkit for fundamental analysis of Indian stocks &mdash; Also part of market-intelligence-platform monorepo
 

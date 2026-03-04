@@ -232,6 +232,7 @@ Professional toolkit for fundamental analysis of Indian stocks &mdash; Also part
 
 | Project | What it does |
 |---------|--------------|
+| [life-rpg](https://github.com/Mohit1053/life-rpg) | RPG-style gamification dashboard for personal life improvement |
 | [Article-Summary-Insights](https://github.com/Mohit1053/Article-Summary-Insights) | AI-powered financial article analysis system with multi-agent architecture for insights extraction and investment scoring |
 | [AP-PROJECT](https://github.com/Mohit1053/AP-PROJECT) | Tank Stars-inspired 2D artillery game built with Java and libGDX &mdash; Advanced Programming coursework at IIIT-Delhi (2022) |
 | [propensity](https://github.com/Mohit1053/propensity) | Propensity scoring model for user conversion prediction |

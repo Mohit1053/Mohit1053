@@ -91,7 +91,7 @@ RAG-based chatbot for tech transfer knowledge base
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%">
 
 **[classify-image-objects](https://github.com/Mohit1053/classify-image-objects)**
 
@@ -99,15 +99,7 @@ High-performance FastAPI REST API for image classification using ensemble deep l
 
 </td>
 
-<td width="33%">
-
-**[object-detect-deploy](https://github.com/Mohit1053/object-detect-deploy)**
-
-Real-time object detection with YOLOv8, deployed via Flask API
-
-</td>
-
-<td width="33%">
+<td width="50%">
 
 **[coupon-recommender-xgboost](https://github.com/Mohit1053/coupon-recommender-xgboost)**
 

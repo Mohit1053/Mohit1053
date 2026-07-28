@@ -14,33 +14,6 @@
 
 ## Top Projects
 
-### Flagship
-
-<table>
-<tr>
-
-<td width="50%">
-
-**market-intelligence-platform** *(private)*
-
-Enterprise-grade Indian Market Intelligence Platform &mdash; Agentic RAG, 14-metric fundamental scoring, 131K-record backtesting, and smart portfolio rebalancing
-
-</td>
-
-<td width="50%">
-
-**stock-prediction-engine** *(private)*
-
-ML-powered stock prediction with 350+ technical indicators and LSTM models for Indian equities &mdash; BUY/SELL signal generation
-
-</td>
-
-</tr>
-</table>
-
-
----
-
 ### Voice & Enterprise AI
 
 
@@ -51,74 +24,12 @@ Enterprise Voice AI platform &mdash; 15 microservices, 3 deployment approaches (
 
 ---
 
-### RAG & LLM Systems
-
-<table>
-<tr>
-
-<td width="33%">
-
-**[Cement-Concall-RAG](https://github.com/Mohit1053/Cement-Concall-RAG)**
-
-RAG-powered system for downloading, indexing, and analyzing cement industry conference call transcripts with LangChain and ChromaDB
-
-</td>
-
-<td width="33%">
-
-**[user-chatbot-langgraph](https://github.com/Mohit1053/user-chatbot-langgraph)**
-
-Intelligent chatbot using LangGraph, Google Gemini, and persistent memory
-
-</td>
-
-<td width="33%">
-
-**[techtransfer-chatbot-v2](https://github.com/Mohit1053/techtransfer-chatbot-v2)**
-
-RAG-based chatbot for tech transfer knowledge base
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-### Computer Vision & ML
-
-<table>
-<tr>
-
-<td width="50%">
-
-**[classify-image-objects](https://github.com/Mohit1053/classify-image-objects)**
-
-High-performance FastAPI REST API for image classification using ensemble deep learning (CLIP, BLIP, DETR)
-
-</td>
-
-<td width="50%">
-
-**[coupon-recommender-xgboost](https://github.com/Mohit1053/coupon-recommender-xgboost)**
-
-XGBoost-based coupon tier classifier predicting optimal High/Mid/Low discount levels based on user behavior and engagement patterns
-
-</td>
-
-</tr>
-</table>
-
-
----
-
 ### NLP
 
 <table>
 <tr>
 
-<td width="25%">
+<td width="50%">
 
 **[NLP_Project](https://github.com/Mohit1053/NLP_Project)**
 
@@ -126,54 +37,11 @@ Hindi-English code-mixed text classification using TF-IDF + Logistic Regression 
 
 </td>
 
-<td width="25%">
-
-**[speech-sentiment-api](https://github.com/Mohit1053/speech-sentiment-api)**
-
-Speech-to-text + sentiment analysis API using Whisper and transformers
-
-</td>
-
-<td width="25%">
-
-**[text-summarizer-nlp](https://github.com/Mohit1053/text-summarizer-nlp)**
-
-Text summarization tool using NLP techniques (extractive + abstractive)
-
-</td>
-
-<td width="25%">
+<td width="50%">
 
 **[Humanizer](https://github.com/Mohit1053/Humanizer)**
 
 Multi-prompt AI text humanizer to reduce detection scores on GPTZero and ZeroGPT
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-### Web Automation & Data
-
-<table>
-<tr>
-
-<td width="50%">
-
-**[web-automation-framework](https://github.com/Mohit1053/web-automation-framework)**
-
-Production-grade web automation framework &mdash; stealth browser control, fingerprint evasion, human behavior simulation, IP rotation, and multi-provider LLM content generation
-
-</td>
-
-<td width="50%">
-
-**labs-financial-data-pipelines** *(private)*
-
-Automated financial data collection &mdash; broker emails, recommendations scraping, factsheet downloads, and portfolio analysis
 
 </td>
 
@@ -188,7 +56,7 @@ Automated financial data collection &mdash; broker emails, recommendations scrap
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%">
 
 **quant-lab** *(private)*
 
@@ -196,15 +64,7 @@ Quantitative research lab &mdash; Transformer/TFT models, RL agents (PPO, SAC), 
 
 </td>
 
-<td width="33%">
-
-**[indian-stock-backtesting](https://github.com/Mohit1053/indian-stock-backtesting)**
-
-Dual-engine backtesting platform for Indian equities &mdash; fundamental scoring (Nifty 50, 14 metrics) and technical indicator analysis (2600+ stocks, 105+ indicators) with Flask APIs and interactive dashboards
-
-</td>
-
-<td width="33%">
+<td width="50%">
 
 **Fundamental_Indicators** *(private)*
 
@@ -225,10 +85,6 @@ Professional toolkit for fundamental analysis of Indian stocks &mdash; Also part
 | Project | What it does |
 |---------|--------------|
 | [et-prime-finetune](https://github.com/Mohit1053/et-prime-finetune) | Fine-tuning data and notebooks for ET Prime campaign personalization |
-| [Article-Summary-Insights](https://github.com/Mohit1053/Article-Summary-Insights) | AI-powered financial article analysis system with multi-agent architecture for insights extraction and investment scoring |
-| [AP-PROJECT](https://github.com/Mohit1053/AP-PROJECT) | Tank Stars-inspired 2D artillery game built with Java and libGDX &mdash; Advanced Programming coursework at IIIT-Delhi (2022) |
-| [propensity](https://github.com/Mohit1053/propensity) | Propensity scoring model for user conversion prediction |
-| [rocket-flight-controller](https://github.com/Mohit1053/rocket-flight-controller) | Rocket flight simulation and PID controller implementation |
 
 
 ---

@@ -53,27 +53,10 @@ Multi-prompt AI text humanizer to reduce detection scores on GPTZero and ZeroGPT
 
 ### Quant Research
 
-<table>
-<tr>
-
-<td width="50%">
 
 **quant-lab** *(private)*
 
 Quantitative research lab &mdash; Transformer/TFT models, RL agents (PPO, SAC), regime detection, and backtesting for Indian markets
-
-</td>
-
-<td width="50%">
-
-**Fundamental_Indicators** *(private)*
-
-Professional toolkit for fundamental analysis of Indian stocks &mdash; Also part of market-intelligence-platform monorepo
-
-</td>
-
-</tr>
-</table>
 
 
 ---
@@ -84,6 +67,7 @@ Professional toolkit for fundamental analysis of Indian stocks &mdash; Also part
 
 | Project | What it does |
 |---------|--------------|
+| [finance-rag-system](https://github.com/Mohit1053/finance-rag-system) | Enterprise-grade, finance-focused Agentic RAG system with multi-agent architecture, GraphRAG, and zero-mismatch numerical verification |
 | [et-prime-finetune](https://github.com/Mohit1053/et-prime-finetune) | Fine-tuning data and notebooks for ET Prime campaign personalization |
 
 

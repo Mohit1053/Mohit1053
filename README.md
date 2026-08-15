@@ -67,6 +67,7 @@ Quantitative research lab &mdash; Transformer/TFT models, RL agents (PPO, SAC), 
 
 | Project | What it does |
 |---------|--------------|
+| [cohortx-task-2](https://github.com/Mohit1053/cohortx-task-2) | CohortX Challenge Task 2 - eligibility criteria to semantic triples. MMR retrieval-augmented few-shot extraction. 3rd of 9 validated teams. |
 | [finance-rag-system](https://github.com/Mohit1053/finance-rag-system) | Enterprise-grade, finance-focused Agentic RAG system with multi-agent architecture, GraphRAG, and zero-mismatch numerical verification |
 | [et-prime-finetune](https://github.com/Mohit1053/et-prime-finetune) | Fine-tuning data and notebooks for ET Prime campaign personalization |
 

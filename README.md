@@ -51,6 +51,16 @@ Multi-prompt AI text humanizer to reduce detection scores on GPTZero and ZeroGPT
 
 ---
 
+### Quant Research
+
+
+**quant-lab** *(private)*
+
+Quantitative research lab &mdash; Transformer/TFT models, RL agents (PPO, SAC), regime detection, and backtesting for Indian markets
+
+
+---
+
 
 
 ## Other Public Projects

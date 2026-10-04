@@ -14,6 +14,33 @@
 
 ## Top Projects
 
+### Flagship
+
+<table>
+<tr>
+
+<td width="50%">
+
+**market-intelligence-platform** *(private)*
+
+Enterprise-grade Indian Market Intelligence Platform &mdash; Agentic RAG, 14-metric fundamental scoring, 131K-record backtesting, and smart portfolio rebalancing
+
+</td>
+
+<td width="50%">
+
+**stock-prediction-engine** *(private)*
+
+ML-powered stock prediction with 350+ technical indicators and LSTM models for Indian equities &mdash; BUY/SELL signal generation
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
 ### Voice & Enterprise AI
 
 
@@ -24,29 +51,49 @@ Enterprise Voice AI platform &mdash; 15 microservices, 3 deployment approaches (
 
 ---
 
-### NLP
+### RAG & LLM Systems
+
+
+**[Cement-Concall-RAG](https://github.com/Mohit1053/Cement-Concall-RAG)**
+
+RAG-powered system for downloading, indexing, and analyzing cement industry conference call transcripts with LangChain and ChromaDB
+
+
+---
+
+### Computer Vision & ML
 
 <table>
 <tr>
 
 <td width="50%">
 
-**[NLP_Project](https://github.com/Mohit1053/NLP_Project)**
+**[classify-image-objects](https://github.com/Mohit1053/classify-image-objects)**
 
-Hindi-English code-mixed text classification using TF-IDF + Logistic Regression and BERT fine-tuning
+High-performance FastAPI REST API for image classification using ensemble deep learning (CLIP, BLIP, DETR)
 
 </td>
 
 <td width="50%">
 
-**[Humanizer](https://github.com/Mohit1053/Humanizer)**
+**[coupon-recommender-xgboost](https://github.com/Mohit1053/coupon-recommender-xgboost)**
 
-Multi-prompt AI text humanizer to reduce detection scores on GPTZero and ZeroGPT
+XGBoost-based coupon tier classifier predicting optimal High/Mid/Low discount levels based on user behavior and engagement patterns
 
 </td>
 
 </tr>
 </table>
+
+
+---
+
+### Web Automation & Data
+
+
+**labs-financial-data-pipelines** *(private)*
+
+Automated financial data collection &mdash; broker emails, recommendations scraping, factsheet downloads, and portfolio analysis
 
 
 ---
@@ -57,9 +104,9 @@ Multi-prompt AI text humanizer to reduce detection scores on GPTZero and ZeroGPT
 
 | Project | What it does |
 |---------|--------------|
+| [Article-Summary-Insights](https://github.com/Mohit1053/Article-Summary-Insights) | AI-powered financial article analysis system with multi-agent architecture for insights extraction and investment scoring |
 | [cohortx-task-2](https://github.com/Mohit1053/cohortx-task-2) | CohortX Challenge Task 2 - eligibility criteria to semantic triples. MMR retrieval-augmented few-shot extraction. 3rd of 9 validated teams. |
 | [finance-rag-system](https://github.com/Mohit1053/finance-rag-system) | Enterprise-grade, finance-focused Agentic RAG system with multi-agent architecture, GraphRAG, and zero-mismatch numerical verification |
-| [et-prime-finetune](https://github.com/Mohit1053/et-prime-finetune) | Fine-tuning data and notebooks for ET Prime campaign personalization |
 
 
 ---

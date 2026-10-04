@@ -53,10 +53,35 @@ Enterprise Voice AI platform &mdash; 15 microservices, 3 deployment approaches (
 
 ### RAG & LLM Systems
 
+<table>
+<tr>
+
+<td width="33%">
 
 **[Cement-Concall-RAG](https://github.com/Mohit1053/Cement-Concall-RAG)**
 
 RAG-powered system for downloading, indexing, and analyzing cement industry conference call transcripts with LangChain and ChromaDB
+
+</td>
+
+<td width="33%">
+
+**[user-chatbot-langgraph](https://github.com/Mohit1053/user-chatbot-langgraph)**
+
+Intelligent chatbot using LangGraph, Google Gemini, and persistent memory
+
+</td>
+
+<td width="33%">
+
+**[techtransfer-chatbot-v2](https://github.com/Mohit1053/techtransfer-chatbot-v2)**
+
+RAG-based chatbot for tech transfer knowledge base
+
+</td>
+
+</tr>
+</table>
 
 
 ---
@@ -66,7 +91,7 @@ RAG-powered system for downloading, indexing, and analyzing cement industry conf
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%">
 
 **[classify-image-objects](https://github.com/Mohit1053/classify-image-objects)**
 
@@ -74,11 +99,46 @@ High-performance FastAPI REST API for image classification using ensemble deep l
 
 </td>
 
-<td width="50%">
+<td width="33%">
+
+**[object-detect-deploy](https://github.com/Mohit1053/object-detect-deploy)**
+
+Real-time object detection with YOLOv8, deployed via Flask API
+
+</td>
+
+<td width="33%">
 
 **[coupon-recommender-xgboost](https://github.com/Mohit1053/coupon-recommender-xgboost)**
 
 XGBoost-based coupon tier classifier predicting optimal High/Mid/Low discount levels based on user behavior and engagement patterns
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
+### NLP
+
+<table>
+<tr>
+
+<td width="50%">
+
+**[speech-sentiment-api](https://github.com/Mohit1053/speech-sentiment-api)**
+
+Speech-to-text + sentiment analysis API using Whisper and transformers
+
+</td>
+
+<td width="50%">
+
+**[text-summarizer-nlp](https://github.com/Mohit1053/text-summarizer-nlp)**
+
+Text summarization tool using NLP techniques (extractive + abstractive)
 
 </td>
 
@@ -104,6 +164,8 @@ Automated financial data collection &mdash; broker emails, recommendations scrap
 
 | Project | What it does |
 |---------|--------------|
+| [propensity](https://github.com/Mohit1053/propensity) | Propensity scoring model for user conversion prediction |
+| [rocket-flight-controller](https://github.com/Mohit1053/rocket-flight-controller) | Rocket flight simulation and PID controller implementation |
 | [Article-Summary-Insights](https://github.com/Mohit1053/Article-Summary-Insights) | AI-powered financial article analysis system with multi-agent architecture for insights extraction and investment scoring |
 | [cohortx-task-2](https://github.com/Mohit1053/cohortx-task-2) | CohortX Challenge Task 2 - eligibility criteria to semantic triples. MMR retrieval-augmented few-shot extraction. 3rd of 9 validated teams. |
 | [finance-rag-system](https://github.com/Mohit1053/finance-rag-system) | Enterprise-grade, finance-focused Agentic RAG system with multi-agent architecture, GraphRAG, and zero-mismatch numerical verification |

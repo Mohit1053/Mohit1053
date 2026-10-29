@@ -164,6 +164,7 @@ Automated financial data collection &mdash; broker emails, recommendations scrap
 
 | Project | What it does |
 |---------|--------------|
+| [dossier](https://github.com/Mohit1053/dossier) | A self-hosted job search app that writes tailored resumes and cover letters from your profile. |
 | [propensity](https://github.com/Mohit1053/propensity) | Propensity scoring model for user conversion prediction |
 | [rocket-flight-controller](https://github.com/Mohit1053/rocket-flight-controller) | Rocket flight simulation and PID controller implementation |
 | [Article-Summary-Insights](https://github.com/Mohit1053/Article-Summary-Insights) | AI-powered financial article analysis system with multi-agent architecture for insights extraction and investment scoring |

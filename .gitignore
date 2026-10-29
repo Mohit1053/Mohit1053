@@ -45,3 +45,4 @@ Thumbs.db
 logs/
 *.pyc
 .mcp.json
+tmpclaude-*-cwd
